@@ -1,4 +1,4 @@
-# IoT_DL-based_Intrusion_Detection
+# Deep Learning-based Intrusion Detection for IoT
 
 The project proposes an intrusion detection scheme for IoT networks that classifies traffic flow through the application of deep learning concepts. 
 
